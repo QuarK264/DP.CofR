@@ -1,0 +1,9 @@
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\bin\Debug\DAA.DP.ChainOfResponsibilities.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\bin\Debug\DAA.DP.ChainOfResponsibilities.exe
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\bin\Debug\DAA.DP.ChainOfResponsibilities.pdb
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\obj\Debug\DAA.DP.ChainOfResponsibilities.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\obj\Debug\DAA.DP.ChainOfResponsibilities.exe
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб6\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\obj\Debug\DAA.DP.ChainOfResponsibilities.pdb
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\bin\Debug\DAA.DP.ChainOfResponsibilities.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\obj\Debug\DAA.DP.ChainOfResponsibilities.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.ChainOfResponsibilities\DAA.DP.ChainOfResponsibilities\obj\Debug\DAA.DP.ChainOfResponsibilities.pdb
